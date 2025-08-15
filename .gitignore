@@ -1,0 +1,15 @@
+ .idea/
+ *.iml
+
+ # Maven build files
+ target/
+
+ # Logs
+ log.txt
+
+ # Database properties
+ src/main/resources/db.properties
+
+ # Other temporary files
+ *.log
+ *.tmp
